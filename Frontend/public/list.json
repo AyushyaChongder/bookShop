@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Black Beauty",
+        "title": "Story Book",
+        "category": "Free",
+        "price":120,
+        "image": "https://cdn.kobo.com/book-images/1ee7ede5-bb43-4df9-a95e-89cf841e6ec3/1200/1200/False/black-beauty-55.jpg"
+    },
+
+    {
+        "id": 2,
+        "name": "Tom Sawyer",
+        "title": "Story Book",
+        "category": "Free",
+        "price":150,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsqpuHNaKOAz1gbjqOjhFo3YMe2cnRoL30wVfLSRq2iCQa4WQJ5IB-uz4inUnl98XpTuc&usqp=CAU"
+    },
+
+    {
+        "id": 3,
+        "name": "Archies",
+        "title": "Comic Book",
+        "category": "Free",
+        "price":100,
+        "image": "https://m.media-amazon.com/images/I/71XNEQbkpML._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Jungle Book",
+        "title": "Story Book",
+        "category": "Free",
+        "price":180,
+        "image": "https://5.imimg.com/data5/SELLER/Default/2021/2/SA/IQ/HS/49559104/img-20210211-121925.jpg"
+    },
+    {
+        "id": 5,
+        "name": "365 Panchatantra Stories",
+        "title": "Comic Book",
+        "category": "Free",
+        "price":200,
+        "image": "https://www.crossword.in/cdn/shop/files/8101J25-t0L.jpg?v=1682506428&width=533"
+    },
+    {
+        "id": 6,
+        "name": "The Princess and the Frog",
+        "title": "Comic Book",
+        "category": "Free",
+        "price":250,
+        "image": "https://offshootbooks.com/cdn/shop/products/81k2Ol0VprL.jpg?v=1652862776"
+    }
+    ,{
+        "id": 7,
+        "name": "Black Beauty",
+        "title": "Story Book",
+        "category": "Free",
+        "price":120,
+        "image": "https://cdn.kobo.com/book-images/1ee7ede5-bb43-4df9-a95e-89cf841e6ec3/1200/1200/False/black-beauty-55.jpg"
+    },
+
+    {
+        "id": 8,
+        "name": "Tom Sawyer",
+        "title": "Story Book",
+        "category": "Free",
+        "price":150,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsqpuHNaKOAz1gbjqOjhFo3YMe2cnRoL30wVfLSRq2iCQa4WQJ5IB-uz4inUnl98XpTuc&usqp=CAU"
+    },
+
+    {
+        "id": 9,
+        "name": "Archies",
+        "title": "Comic Book",
+        "category": "Free",
+        "price":100,
+        "image": "https://m.media-amazon.com/images/I/71XNEQbkpML._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Jungle Book",
+        "title": "Story Book",
+        "category": "Free",
+        "price":180,
+        "image": "https://5.imimg.com/data5/SELLER/Default/2021/2/SA/IQ/HS/49559104/img-20210211-121925.jpg"
+    },
+    {
+        "id": 11,
+        "name": "365 Panchatantra Stories",
+        "title": "Comic Book",
+        "category": "Free",
+        "price":200,
+        "image": "https://www.crossword.in/cdn/shop/files/8101J25-t0L.jpg?v=1682506428&width=533"
+    },
+    {
+        "id": 12,
+        "name": "The Princess and the Frog",
+        "title": "Comic Book",
+        "category": "Free",
+        "price":250,
+        "image": "https://offshootbooks.com/cdn/shop/products/81k2Ol0VprL.jpg?v=1652862776"
+    }
+]

@@ -1,0 +1,16 @@
+import React from "react";
+import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
+import Book from "../components/Book";
+
+function Books() {
+  return (
+    <>
+      <Navbar />
+      <Book />
+      <Footer/>
+    </>
+  );
+}
+
+export default Books;
