@@ -13,6 +13,7 @@ function Navbar() {
       document.body.classList.add("dark");
     } else {
       element.classList.remove("dark");
+      element.classList.add("light");
       localStorage.setItem("theme", "light");
       document.body.classList.remove("dark");
     }
