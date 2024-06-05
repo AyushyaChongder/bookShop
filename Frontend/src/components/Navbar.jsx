@@ -57,7 +57,7 @@ function Navbar() {
                   <a>Contact</a>
                 </li>
                 <li>
-                  <a>About</a>
+                  <a>Cart</a>
                 </li>
               </ul>
             </div>
@@ -76,7 +76,7 @@ function Navbar() {
                   <a>Contact</a>
                 </li>
                 <li>
-                  <a>About</a>
+                  <a>Cart</a>
                 </li>
               </ul>
             </div>

@@ -1,8 +1,12 @@
 import express from "express";
 import dotenv from "dotenv";
 import mongoose from "mongoose";
+import bookRoute from "./route/book.route.js";
+import cors from "cors";
 
 const app = express();
+
+app.use(cors());
 
 dotenv.config();
 
@@ -19,6 +23,10 @@ try {
 } catch (error) {
   console.error("Error connecting to mongoDB server",error);
 }
+
+//defining routes
+
+app.use("/book",bookRoute);
 
 app.listen(PORT, () => {
   console.log(`Server is listening on port ${PORT}`);
